@@ -86,7 +86,7 @@ The system prevents redundant queries by detecting repeated inputs, ensuring eff
    cd Global-Shark-Attack-Project
    ```
 
-2. **Create a virtual environment**  
+2. **Create a virtual environment (Python Version = 3.11.13)**  
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
