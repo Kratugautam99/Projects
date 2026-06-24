@@ -47,7 +47,7 @@
 
 ### 🌐 Site Overview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kratugautam99/Global-Shark-Attack-Project/main/Demo/SiteView.png" alt="Site View" width="80%" />
+  <img src="https://raw.githubusercontent.com/Kratugautam99/Global-Shark-Attack-Project/main/Demo/SiteView.png" alt="Site View" width="60%" />
 </p>
 The landing page of the application, where users can input details and explore shark attack data.
 
