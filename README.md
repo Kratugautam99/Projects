@@ -14,7 +14,8 @@
 
 ## 📖 Table of Contents
 
-- [✨ Features](#-features)  
+- [✨ Features](#-features)
+- [📂 Directory Structure](#-directory-structure)
 - [📸 Demo Screenshots](#-dem)  
 - [⚙️ Setup & Installation](#-setup--installation)  
 - [🖼️ Preparing Assets](#-preparing-assets)  
@@ -39,7 +40,29 @@
   A beach scene with moving shark sprites creates an immersive, game‑like experience while you interact with the model.  
 
 - 🚀 **Lightweight & Fast**  
-  Minimal dependencies ensure instant Flask startup and smooth performance across environments.  
+  Minimal dependencies ensure instant Flask startup and smooth performance across environments.
+
+---
+
+## 📂 Directory Structure  
+
+```
+Global-Shark-Attack-Project/
+├── app.py
+├── requirements.txt
+├── static/
+│   ├── css/
+│   ├── images/
+│   └── js/
+├── templates/
+│   ├── index.html
+│   ├── result.html
+│   └── about.html
+├── model/
+│   ├── shark_model.pkl
+│   └── scaler.pkl
+└── README.md   # This File
+```
 
 ---
 <a id = "-dem"></a>
